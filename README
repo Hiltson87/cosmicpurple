@@ -1,0 +1,9 @@
+Alacritty - Paste into ~/.config/alacritty - the only change is window opacity, otherwise it's the same as the default config
+Bashtop - Paste into ~/.config/bashtop/user_themes
+Cava - Paste into ~/.config/cava
+
+I'll release the GTK/Gnome shell themes at a later date, currently don't feel they're ready to share.
+
+Outside of that, most theming seen in the screenshots is from Pywal or forks from it. Pywal, Pywalfox, Pywal plugin for VS Code, etc.
+
+The included wallpaper is not my original art and I do not intend to imply otherwise. It's a t-shirt design from Sloppy Pistons. I simply expanded the black background on it to both 16:9 and 21:9 formats. 
