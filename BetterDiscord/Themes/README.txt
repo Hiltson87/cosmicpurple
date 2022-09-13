@@ -1,0 +1,1 @@
+I just use the Pywal theme for BetterDiscord. If you're using the same wallpaper and pywal to pull the colors for your terminal, just change the path in the config file to wherever your wallpaper is saved.
